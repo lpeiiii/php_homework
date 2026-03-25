@@ -6,17 +6,17 @@
 </head>
 
 
-<body>
-    <table width="700" align="center" border="0" cellpadding="0" cellspacing="0">
+<body bgcolor="#F0F8FF">
+    <table width="850" align="center" border="0" cellpadding="30" cellspacing="0">
         <tr>
-            <td>
+            <td bgcolor="white">
                 <a name="top">
                 <h1><font color="skyblue"><center>夏令營活動報名表單</center></font></h1>
                 <hr width="100%" color="skyblue">
 
                 <h3><mark>活動資訊</mark></h3>
                 <ul>
-                    <li><b>招生年齡：</b>國小『二年級～國中一年級』為主，低年級需能生活自理。<br/></li>
+                    <li><b>招生年齡：</b>『國小六年級～國中三年級』為主，需能生活自理。<br/></li>
                     <li><b>早鳥期限：</b>即日起至2026/04/20,23:30止。<br/></li>
                     <li><b>報名截止：</b>即日起至2026/05/06,23:30止。<br/></li>
                     <li><b>活動費用：</b><u>免費!!</u> (每人需繳交保證金新台幣500元,活動結束後會退還)</li>
@@ -35,6 +35,41 @@
                     <li><b>備註：</b>上課需自備文具及彩色筆；滿15人開班，報名截止後依本網站公告為準。</li>
                 </ul>
 
+                <hr width="100%" color="skyblue">
+
+                <h3><mark>一週課表</mark></h3>
+                <table border="1" width="100%" cellpadding="8" cellspacing="0" bordercolor="#skyblue">
+                    <tr bgcolor="lightblue">
+                        <th><font color="white">時間</font></th>
+                        <th><font color="white">星期一</font></th>
+                        <th><font color="white">星期二</font></th>
+                        <th><font color="white">星期三</font></th>
+                        <th><font color="white">星期四</font></th>
+                        <th><font color="white">星期五</font></th>
+                    </tr>
+                    <tr align="center">
+                        <td bgcolor="#f9f9f9">09:00 - 12:00</td>
+                        <td>相見歡 &<br>結構力學基礎</td>
+                        <td>離心力原理<br>實驗說明</td>
+                        <td>流體力學與<br>浮力概論</td>
+                        <td>光電轉換<br>原理教學</td>
+                        <td>作品總測試<br>與最後修正</td>
+                    </tr>
+                    <tr align="center">
+                        <td bgcolor="#f9f9f9">12:00 - 13:30</td>
+                        <td colspan="5">營養午餐 & 午休時間</td>
+                    </tr>
+                    <tr align="center">
+                        <td bgcolor="#f9f9f9">13:30 - 16:30</td>
+                        <td bgcolor="cornsilk"><b>炫彩小屋</b><br>組裝實作</td>
+                        <td bgcolor="cornsilk"><b>模擬下雪機</b><br>組裝實作</td>
+                        <td bgcolor="cornsilk"><b>遙控動力船</b><br>水池測試</td>
+                        <td bgcolor="cornsilk"><b>太陽能風車</b><br>戶外集光</td>
+                        <td bgcolor="lightblue"><b>成果發表會</b><br>家長歡迎參加</td>
+                    </tr>
+                </table>
+
+                <br/>
                 <hr width="100%" color="skyblue">
                 <h3><mark>個人資訊</mark></h3>
 
